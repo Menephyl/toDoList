@@ -1,2 +1,12 @@
-# toDoList
-📝 Task List – React Project This is my first React project, built as part of my Front-End course at DevClub. It's a simple and functional to-do list app that helped me solidify core concepts while exploring React's component-based structure. 🚀 Technologies Used: - React (functional components and state handling) - Styled Components (CSS-in-JS styling) - React Icons (icon integration for UI) - Google Fonts (custom typography) - HTML & CSS embedded within JSX components ✨ Features: - Add new tasks to the list - Dynamic interface feedback when the list is empty - Modern, responsive design with motivational touches This project gave me hands-on experience working with component logic and styling in React. I'm excited to keep learning and building more!
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
